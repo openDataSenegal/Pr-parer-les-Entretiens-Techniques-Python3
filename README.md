@@ -1,2 +1,2 @@
-# Pr-parer-les-Entretiens-Techniques-Python3
-Ce repository contient des notebooks contenant les problèmes souvent posés dans les entretiens techniques avec les solutions associées
+# Preparer-les-Entretiens-Techniques-Python3
+This repository contains notebooks containing the problems often posed in technical interviews with the associated solutions
